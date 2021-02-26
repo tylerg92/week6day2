@@ -1,0 +1,21 @@
+body{
+    background-color: lightgray;
+}
+.rows{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 270px;
+    margin: -100px 200px 0px 200px;
+    width: 1000px;
+}
+.boxes{
+    padding: 80px;
+    width: 0px;
+    margin: 20px;
+    border: 1px solid #524f4e;
+background-color:#524f4e;  
+}
+.changeColor{
+    border: 1px solid #bdb7b5;
+    background-color:#bdb7b5; 
+}
